@@ -1,2 +1,2 @@
-- 枸杞插件下载地址
-- 枸杞SS安卓APP下载地址
+- 最新枸杞插件下载地址：https://github.com/angrytimemachine/public/releases/tag/v4.9
+- 最新枸杞SS安卓APP下载地址：https://github.com/angrytimemachine/public/releases/tag/v1.1
