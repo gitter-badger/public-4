@@ -6,5 +6,11 @@
     "help":"https://github.com/angrytimemachine/public",
     "ss":"http://gouqiss.top",
     "notify":"http://git.oschina.net/gouqi/public/raw/master/no",
-    "price": [{"ori": 11,"discount": 10},{"ori": 30,"discount": 28},{"ori": 110,"discount": 105}]
+    "price":[{
+        "ori":15,"discount":11
+    },{
+        "ori":33,"discount":30
+    },{
+        "ori":150,"discount":110
+    }]
 }
