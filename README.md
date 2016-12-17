@@ -1,2 +1,3 @@
 - 最新枸杞插件下载地址：https://github.com/angrytimemachine/public/releases/tag/v4.9
 - 最新枸杞SS安卓APP下载地址：https://github.com/angrytimemachine/public/releases/tag/v1.1
+- 最新枸杞SS桌面版本(MAC/WINDOWS)下载地址：https://github.com/angrytimemachine/public/releases/tag/v2.0.0
