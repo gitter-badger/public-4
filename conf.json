@@ -11,17 +11,17 @@
         {
             "ori": 15,
             "discount": 11,
-            "traffic": 1
+            "traffic": 10
         },
         {
             "ori": 33,
             "discount": 30,
-            "traffic": 3
+            "traffic": 30
         },
         {
             "ori": 150,
             "discount": 110,
-            "traffic": 12
+            "traffic": 120
         }
     ]
 }
