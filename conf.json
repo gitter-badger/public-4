@@ -1,7 +1,7 @@
 {
     "appid": "666666666",
-    "http": "https://iamdog.pw:8443/v4",
-    "socket": "wss://iamdog.pw:8443/wv4",
+    "http": "http://gouqisocks.pw/v4",
+    "socket": "ws://gouqisocks.pw/wv4",
     "link":"https://hidog.pw/gg/index.html",
     "pay":"http://www.hzllink.cn:8888",
     "help":"https://hidog.pw/gg/tutorial-list.html",
