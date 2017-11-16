@@ -1,12 +1,12 @@
 # 枸杞
 
 ### 官方网站
-- http://iamdog.pw
+- https://tmdwall.red/gg/index.html
 
 ### 枸杞SS网站
-- https://gouqiss.top
+- https://gouqiss.com
 
-### 枸杞SS桌面版本已发布，支持windows和mac系统，欢迎进入https://gouqiss.top 或 https://hidog.pw 或加入QQ群下载使用。
+### 枸杞SS桌面版本已发布，支持windows和mac系统，欢迎进入https://gouqiss.com 或 https://tmdwall.red/gg/index.html 或加入QQ群下载使用。
 
 ### FAQ
 
